@@ -2,7 +2,7 @@
 
 # O projeto
 Projeto desenvolvido durante o curso "JavaScript e jQuery" da Origamid - https://www.origamid.com/curso/javascript-e-jquery/ -
-focado no aprendizado de jQuery, através do desenvolvimento de um contador de palavras caracteres digitados.
+focado no aprendizado de jQuery, através do desenvolvimento de um contador de palavras caracteres e digitados.
 
 # Tecnologias utilizadas
 - HTML
